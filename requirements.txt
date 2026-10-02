@@ -1,0 +1,4 @@
+groq
+dotenv
+pyttsx3
+playsound3
